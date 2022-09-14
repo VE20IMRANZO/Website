@@ -65,13 +65,13 @@
 
       <section class="resume-section p-3 p-lg-5 d-flex d-column" id="about">
         <div class="my-auto">
-          <h1 class="mb-0">Ifeanyi
-            <span class="text-primary">Onuama</span>
+          <h1 class="mb-0">Aidan
+            <span class="text-primary">Davies</span>
           </h1>
-          <div class="subheading mb-5">ifeanyio569@gmail.com · ifeanyi.coder@gmail.com ·
-            <a href="https://github.com/CoderIfeanyi"> My Github</a>
+          <div class="subheading mb-5"> karendavies1316@gmail.com·
+            <a href="https://github.com/MRKingSlime"> My Github</a>
           </div>
-          <p class="mb-5">I am experienced in Python Coding, App Designing as well as Video-Game Designing.</p>
+          <p class="mb-5">I am experienced in HTMl Coding.</p>
           <ul class="list-inline list-social-icons mb-0">
             <li class="list-inline-item">
               <a href="#">
@@ -283,15 +283,3 @@
   </body>
 
 </html>
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Tr
